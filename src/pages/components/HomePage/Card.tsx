@@ -7,10 +7,12 @@ const Card = () => {
             <img 
                 src="image-product-desktop.jpg"
                 className="max-w-[300px] hidden md:block"
+                alt="perfume"
             />
             <img 
                 src="image-product-mobile.jpg"
                 className="max-w-[450px] md:hidden"
+                alt="perfume"
             />
             <CardContent />
         </div>

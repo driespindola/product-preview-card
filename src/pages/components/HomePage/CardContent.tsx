@@ -11,7 +11,7 @@ const CardContent = () => {
                 <p className="ml-[17px] md:ml-[19px] font-montserrat text=[14px] text-[#6C7289]"><s>$169.99</s></p>
             </div>
             <button className="flex flex-row items-center mt-[15.5px] md:mt-[22px] p-auto bg-[#3D8168] hover:bg-[#1A4031] py-[12px] px-[80px] md:px-[51px] text-white font-montserrat font-bold rounded">
-                <img src="icon-cart.svg" className="mr-[11px]" />
+                <img src="icon-cart.svg" className="mr-[11px]" alt="card-icon" />
                 Add to Cart
             </button>
         </div>
